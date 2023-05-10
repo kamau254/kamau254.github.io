@@ -1,1 +1,106 @@
-# kamau254.github.io
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Eliud Mwangi</title>
+    <link rel="stylesheet" href="index1.css">
+  </head>
+  <body>
+    <header>
+      <h1>Eliud Mwangi</h1>
+      <nav>
+        <ul>
+          <li><a href="#about">About Me</a></li>
+          <li><a href="#experience">Experience</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#skills">Skills</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <section id="about">
+        <h2>About Me</h2>
+        <p>I am a creative, critical thinker, resourceful, problem solver and hardworking individual who believes in
+          working smart. I possess excellent interpersonal and communication skills thus able to interact well with
+          a wide range of personalities and also perform well in group settings. I also greatly value and enjoy
+          working with a dynamic workforce. I am comfortable working in fast paced and deadline-driven business
+          environments. I hold a Bachelor’s degree in Computer Science from Kibabii University.</p>
+      </section>
+      <section id="experience">
+        <h2>Experience</h2>
+        <ul>
+          <li>
+            <h3>Information Technology Intern, 
+              Digital Divide Data (DDD Kenya) - Nairobi</h3>
+            <p>Jan 2023 - Date</p>
+            <ul>
+              <li>Respond to user requests for service, troubleshoot problems, and help develop solutions.</li>
+              <li>Support PC hardware components, desktop operating system software, and application software.</li>
+              <li>Perform repairs to equipment and arrange for other servicing needs.</li>
+              <li>Identify and report system issues to vendors. Monitor and test the resolution of those issues sent
+                to vendors.</li>
+              <li>Monitor antivirus software and updates and repair computers infected with spyware, adware,
+                and/or viruses.</li>
+              <li>Monitor backup systems and procedures to ensure data security.</li>  
+              <li>Record activities, solutions, and other responses to requests for service.</li> 
+              <li>Assist in maintaining inventory records and documentation for equipment.</li> 
+              <li>Contribute to DDD’s technical documentation and participate in policy, procedure, and standards
+                development.</li> 
+              <li>Consult with vendors, perform research and evaluate products to assist in the selection and
+                purchase of equipment and installation or upgrade of systems.</li> 
+              <li></li> 
+              <li></li> 
+              <li></li> 
+              <li></li> 
+              <li></li> 
+            </ul>
+          </li>
+          <li>
+            <h3>System Support Specialist Attache
+              Masinde Muliro University of Science and Technology - Kakamega</h3>
+            <p>Oct 2021 - Dec 2021</p>
+            <ul>
+              <li>Set-up and configuration of computers</li>
+              <li>Computer maintenance and troubleshooting</li>
+              <li>Network installation and configuration</li>
+              <li>Set-up of printers, software installation and other computer accessories</li>
+              <li>End user support</li>
+            </ul>
+          </li>
+        </ul>
+      </section>
+      <section id="projects">
+        <h2>Projects</h2>
+        <ul>
+          <li>
+            <h3></h3>
+            <p></p>
+          </li>
+          <li>
+            <h3></h3>
+            <p></p>
+          </li>
+        </ul>
+      </section>
+      <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+          <li>Technical knowledge in Windows and Linux operating systems, Microsoft Office, and hardware troubleshooting.</li>
+          <li>Leadership and team management skills.</li>
+          <li>Excellent communication and customer service skills.</li>
+          <li>Vendor management and contract negotiation.</li>
+        </ul>
+      </section>
+      <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: eliudmwangi007@gmail.com</p>
+        <p>Phone: +254-799-944-772</p>
+        <p>LinkedIn: https://www.linkedin.com/in/eliud-mwangi/</p>
+      </section>
+    </main>
+    <footer>
+      <p>&copy; 2023 Eliud Mwangi </p>
+    </footer>
+  </body>
+</html>  
